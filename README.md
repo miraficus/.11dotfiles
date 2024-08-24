@@ -20,6 +20,8 @@ App Launcher
 #### Download
 [Ueli](https://ueli.app/)
 
+
+
 ### Windhawk
 Windows customization Installer
 
@@ -33,19 +35,21 @@ Windows customization Installer
 #### Download
 [Windhawk](https://windhawk.net/)
 
+
+
 ### Ear Trumpet
 Volume Control replacement for Windows
 
 #### Download
 [EarTrumpet](https://eartrumpet.app/)
 
+
+
 ### TranslucentTB
 Utility to make taskbar translucent
 
 #### Download
 [TranslucentTB](https://translucenttb.com/)
-
-
 
 
 
@@ -59,4 +63,4 @@ Touch optimized GUI for various settings with quick access menu
 ## How To
 [Restore Old Right Click Menu](https://www.howtogeek.com/759449/how-to-get-full-context-menus-in-windows-11s-file-explorer/)
 
-# Notes
+## Notes
