@@ -14,14 +14,6 @@ Wallpapers from Windows Spotlight (Downloaded with [BilderGUI](https://github.co
 [Wallpapers](https://www.dropbox.com/sh/nqb0yj9uv1vibci/AAAAgY7YDVB0RgqSfkMaDqICa?dl=1)
 
 ## Programs
-### Ueli
-App Launcher
-
-#### Download
-[Ueli](https://ueli.app/)
-
-
-
 ### Windhawk
 Windows customization Installer
 
