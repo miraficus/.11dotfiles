@@ -5,7 +5,7 @@ My personal dotfiles for Windows 11. I made this for myself and it is not guaran
 Copy dotfiles manualy.
 
 ## Wallpapers
-I backed up my collection of wallpapers on dropbox. Use `wget` to download those files and then `unzip` to extract those files to /usr/share/backgrounds.
+I backed up my collection of wallpapers on dropbox. I like to extract those files to C:/Wallpapers/.
 
 Wallpapers found on google pictures:
 [Wallpapers](https://www.dropbox.com/sh/jwpk6j30kf27uie/AAD2ql1Lt_4vTmNc93nnOOxoa?dl=1)
