@@ -52,6 +52,37 @@ Touch optimized GUI for various settings with quick access menu
 #### Download
 [HandheldCompanion](https://github.com/Valkirie/HandheldCompanion/releases)
 
+## Programs i need or want to install
+### Balena Etcher
+### Darktable
+### Discord
+### Fan Control
+### FileZilla
+### Github Desktop
+### HP Smart
+### HWInfo
+### ImageGlass
+### JDownloader2
+### KDE Connect
+### LibreWolf
+### Logitech GHUB
+### MSI Afterburner / Riva Tuner Statistics
+### OBS
+### OnlyOffice
+### OpenVPN Connect
+### Paint.Net
+### Qbittorrent
+### Raspberry PI Imager
+### Stacher
+### Thunderbird
+### Ultimaker Cura
+### VLC
+### VS Codium
+### 
+
+
+
+
 ## How To
 [Restore Old Right Click Menu](https://www.howtogeek.com/759449/how-to-get-full-context-menus-in-windows-11s-file-explorer/)
 
