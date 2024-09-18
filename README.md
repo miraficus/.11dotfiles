@@ -53,13 +53,13 @@ Touch optimized GUI for various settings with quick access menu
 [HandheldCompanion](https://github.com/Valkirie/HandheldCompanion/releases)
 
 ## Programs i need or want to install
-- [Balena Etcher](https://etcher.balena.io/)
+- Balena Etcher
 - Darktable
 - Discord
-- Fan Control
-- FileZilla
+- [Fan Control](https://getfancontrol.com/)
+- [FileZilla](https://filezilla-project.org/)
 - Github Desktop
-- HP Smart
+- [HP Smart](https://apps.microsoft.com/detail/9wzdncrfhwlh?SilentAuth=1&wa=wsignin1.0&hl=en-us&gl=US)
 - HWInfo
 - ImageGlass
 - JDownloader2
@@ -73,13 +73,13 @@ Touch optimized GUI for various settings with quick access menu
 - Paint.Net
 - Qbittorrent
 - Raspberry PI Imager
-- Stacher
+- [Stacher](https://stacher.io/)
 - Thunderbird
 - Ultimaker Cura
 - VLC
 - VS Codium 
 
-
+### Install them using [winget](https://winget.run/) and this [script](https://gist.github.com/miraficus/d35d5a4ecb42d9c9ff132c630bab6b97).
 
 
 ## How To
