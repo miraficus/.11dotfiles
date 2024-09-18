@@ -53,32 +53,31 @@ Touch optimized GUI for various settings with quick access menu
 [HandheldCompanion](https://github.com/Valkirie/HandheldCompanion/releases)
 
 ## Programs i need or want to install
-### Balena Etcher
-### Darktable
-### Discord
-### Fan Control
-### FileZilla
-### Github Desktop
-### HP Smart
-### HWInfo
-### ImageGlass
-### JDownloader2
-### KDE Connect
-### LibreWolf
-### Logitech GHUB
-### MSI Afterburner / Riva Tuner Statistics
-### OBS
-### OnlyOffice
-### OpenVPN Connect
-### Paint.Net
-### Qbittorrent
-### Raspberry PI Imager
-### Stacher
-### Thunderbird
-### Ultimaker Cura
-### VLC
-### VS Codium
-### 
+- [Balena Etcher](https://etcher.balena.io/)
+- Darktable
+- Discord
+- Fan Control
+- FileZilla
+- Github Desktop
+- HP Smart
+- HWInfo
+- ImageGlass
+- JDownloader2
+- KDE Connect
+- LibreWolf
+- Logitech GHUB
+- MSI Afterburner / Riva Tuner Statistics
+- OBS
+- OnlyOffice
+- OpenVPN Connect
+- Paint.Net
+- Qbittorrent
+- Raspberry PI Imager
+- Stacher
+- Thunderbird
+- Ultimaker Cura
+- VLC
+- VS Codium 
 
 
 
