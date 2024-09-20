@@ -66,7 +66,7 @@ Touch optimized GUI for various settings with quick access menu
 - KDE Connect
 - LibreWolf
 - Logitech GHUB
-- MSI Afterburner / Riva Tuner Statistics
+- [MSI Afterburner / Riva Tuner Statistics](https://us.msi.com/Landing/afterburner/graphics-cards)
 - OBS
 - OnlyOffice
 - OpenVPN Connect
