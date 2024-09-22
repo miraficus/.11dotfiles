@@ -70,7 +70,7 @@ Touch optimized GUI for various settings with quick access menu
 - OBS
 - OnlyOffice
 - OpenVPN Connect
-- Paint.Net
+- [Paint.Net](https://www.dotpdn.com/downloads/pdn.html)
 - Qbittorrent
 - Raspberry PI Imager
 - [Stacher](https://stacher.io/)
