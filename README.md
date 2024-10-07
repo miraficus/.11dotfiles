@@ -23,6 +23,7 @@ Windows customization Installer
 - Modernize Folder Picker Dialog
 - Dark Mode for Notepad
 - Dark Paint
+- Always show all taskbar tray icons
 
 #### Download
 [Windhawk](https://windhawk.net/)
