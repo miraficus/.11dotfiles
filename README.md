@@ -46,12 +46,19 @@ Utility to make taskbar translucent
 
 
 
+### Snappy Driver Installer Origin
+Program for installing and updating drivers
+
+#### Download
+[SDIO](https://www.glenn.delahoy.com/snappy-driver-installer-origin)
+
 ## Programs for Handheld devices
 ### Handheld Companion
 Touch optimized GUI for various settings with quick access menu
 
 #### Download
 [HandheldCompanion](https://github.com/Valkirie/HandheldCompanion/releases)
+
 
 ## Programs i need or want to install
 - Balena Etcher
